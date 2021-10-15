@@ -1,0 +1,10 @@
+C:\Users\Adem\Desktop\hamle\At-Hamle\At-Hamle\bin\Debug\At-Hamle.exe.config
+C:\Users\Adem\Desktop\hamle\At-Hamle\At-Hamle\bin\Debug\At-Hamle.exe
+C:\Users\Adem\Desktop\hamle\At-Hamle\At-Hamle\bin\Debug\At-Hamle.pdb
+C:\Users\Adem\Desktop\hamle\At-Hamle\At-Hamle\obj\Debug\At-Hamle.csproj.AssemblyReference.cache
+C:\Users\Adem\Desktop\hamle\At-Hamle\At-Hamle\obj\Debug\At_Hamle.Form1.resources
+C:\Users\Adem\Desktop\hamle\At-Hamle\At-Hamle\obj\Debug\At_Hamle.Properties.Resources.resources
+C:\Users\Adem\Desktop\hamle\At-Hamle\At-Hamle\obj\Debug\At-Hamle.csproj.GenerateResource.cache
+C:\Users\Adem\Desktop\hamle\At-Hamle\At-Hamle\obj\Debug\At-Hamle.csproj.CoreCompileInputs.cache
+C:\Users\Adem\Desktop\hamle\At-Hamle\At-Hamle\obj\Debug\At-Hamle.exe
+C:\Users\Adem\Desktop\hamle\At-Hamle\At-Hamle\obj\Debug\At-Hamle.pdb
